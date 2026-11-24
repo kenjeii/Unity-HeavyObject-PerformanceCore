@@ -1,0 +1,26 @@
+{
+  "name": "com.kenjeii.unity-perf-core",
+  "version": "0.1.0",
+  "displayName": "Unity Heavy Object Performance Core",
+  "description": "Centralized update loops, zero-GC object pooling, flyweight state separation and time-sliced execution for high-density Unity scenes.",
+  "unity": "2021.3",
+  "license": "MIT",
+  "author": {
+    "name": "Lei Yat Ming (kenjeii)"
+  },
+  "keywords": [
+    "performance",
+    "object-pool",
+    "zero-gc",
+    "centralized-update",
+    "flyweight",
+    "time-slicing"
+  ],
+  "samples": [
+    {
+      "displayName": "Stress test benchmark",
+      "description": "Side-by-side Naive vs Optimized benchmark with ProfilerMarker instrumentation for 5,000 objects.",
+      "path": "Samples~/StressTestBenchmark"
+    }
+  ]
+}

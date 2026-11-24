@@ -1,0 +1,16 @@
+{
+  "name": "Kenjeii.UnityPerfCore.Benchmark",
+  "rootNamespace": "Kenjeii.UnityPerfCore.Benchmark",
+  "references": [
+    "Kenjeii.UnityPerfCore.Runtime"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
